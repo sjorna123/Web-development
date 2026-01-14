@@ -1,13 +1,13 @@
 body {
-    background-color: #fafcff;
+    background-color: white;
     font-family: system-ui, -apple-system, sans-serif;
-    color: #333;
+    color: darkslategrey;
     margin: 0;
     padding: 0;
 }
 
 h1, h2 {
-    color: #1a5c8c;
+    color: blue;
 }
 
 p {
@@ -15,7 +15,7 @@ p {
 }
 
 nav {
-    background: #1a5c8c;
+    background: blue;
     padding: 12px;
     position: fixed;
     top: 0;
@@ -30,7 +30,7 @@ nav a {
 }
 
 nav a:hover {
-    color: #a3d4ff;
+    color: lightblue;
 }
 
 .container {
